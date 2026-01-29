@@ -8,3 +8,6 @@ venv/
 # Python cache (compiled files)
 __pycache__/
 *.pyc
+
+# Data
+data/
